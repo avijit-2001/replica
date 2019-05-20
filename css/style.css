@@ -233,7 +233,7 @@
 }
 .lets-read-right a{
 	color: #fff;
-	background-color: #3FB0EB;
+	background-color: #f88000;
 	display: inline-block;
 	font-size: 18px;
 	text-align: center;
@@ -326,6 +326,13 @@
 	color: #fff;
 	background-color: #FC853F; 
 }
+.middle-create-link-1{
+	width: 273px;
+	height: 45px;
+	margin:14px 25px 29px 25px;
+	color: #fff;
+	background-color: #3FB0EB;
+}
 .left-create{
 	width: 325px;
 	height: 132px;
@@ -371,4 +378,41 @@
 	text-decoration: none;
 	color: #3a3a3a;
 	font-size: .8em;
+}
+.submit{
+	margin-left: 15px;
+	height: 45px;width:273px;
+	background-color:#FC853F;
+	color: white;font-family: 'Libre Franklin', sans-serif;
+	font-size: .55em;
+}
+.submit:hover{
+	background-color: #608a00;
+}
+.middle-create-link:hover{
+	background-color: #608a00;
+}
+.middle-create-link-1:hover{
+	background-color: #3197DB;
+}
+.div-footer a{
+	text-decoration: none;padding-left: 15px;color:  #3a3a3a;font-size: .85em;
+}
+.div-footer a:hover{
+	color: #f28005;
+}
+.div-footer-2 a:hover{
+
+	color: #f28005;
+}
+.scroll{
+	text-align: left;
+	height: 380px;
+	width: 319px;
+	overflow-y: auto;
+	float: right;
+	background-color: white;
+}
+.scroll div{
+	padding:10px; 
 }
