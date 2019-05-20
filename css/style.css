@@ -139,7 +139,7 @@
 	padding-bottom: 0px;
 	width: 970px;
 	margin: 0 auto;
-	background-image: url(images/teacher.png);
+	background-image: url(../images/teacher.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 
@@ -275,7 +275,7 @@
 	height: 432px;
 	width: 100%;
 	background-color: #3abaac ;
-	background-image:url(images/sign-in-video-bg.jpg);
+	background-image:url(../images/sign-in-video-bg.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
