@@ -31,11 +31,10 @@
 
 .tm-upper-box{
 	height: 140px;
-	width: 990px;
+	width: 1040px;
 	margin:0 auto;
 	border:0px solid black;
 	margin-top: 20px;
-	margin-left: 290px;
 }
 .logo{
 	margin-top: 50px;
@@ -57,7 +56,6 @@
 	width: 1020px;
 	height: 339px;
 	margin: 0 auto;
-	margin-left: 290px;
 }
 .inside-2{
 	width: 100%;
@@ -305,15 +303,12 @@
 .new-book{
 	margin:0 auto;
 	margin-top: 5px;
-	height: 432px;
+	height: 470px;
 	width: 100%;
 	background-color: #3abaac ;
 	background-image:url(../images/sign-in-video-bg.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-}
-.book-image{
-	float: right;
 }
 .next-text-image-h2{
 	color: #fff;
@@ -323,6 +318,16 @@
 	padding: 22px 0px 3px 0px;
 	font-family: 'Libre Franklin', sans-serif;
 
+}
+.teach-vid-1{
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 30px;
+}
+.book-image{
+	position :absolute;
+	margin-left: 699px;
+	margin-top: 55px;
 }
 .div-log-in div{
 	display :inline-block;
