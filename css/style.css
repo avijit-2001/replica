@@ -3,6 +3,32 @@
 	margin:0px;
 	padding: 0px;
 }
+.feedback-1{
+	position: fixed;
+    right: 0px;
+    width: 27px;
+    height: 108px;
+    bottom: 50%;
+}
+.feedback-1-img{
+	border-top-left-radius: 8px;
+	border-bottom-left-radius: 8px;
+	width: 27px;
+	height: 108px;
+}
+.captcha-1{
+	position:fixed;
+	right: 0px;
+	height: 60px;
+	width: 70px;
+	bottom: 2%;
+}
+.captcha-1-img{
+	height: 60px;
+	width: 70px;
+	box-shadow: 2px 2px 2px 2px grey;
+}
+
 .tm-upper-box{
 	height: 140px;
 	width: 990px;
