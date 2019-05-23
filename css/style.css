@@ -322,12 +322,12 @@
 .teach-vid-1{
 	position: absolute;
 	margin-top: 20px;
-	margin-left: 30px;
+	margin-left: 20px;
 }
 .book-image{
 	position :absolute;
-	margin-left: 699px;
-	margin-top: 55px;
+	margin-left: 689px;
+	margin-top: 60px;
 }
 .div-log-in div{
 	display :inline-block;
@@ -464,4 +464,8 @@
 }
 .a-2:hover{
 	background-color: #f5a54f;
+}
+.tm-arr{
+	position: relative;
+	top: 3px;
 }
